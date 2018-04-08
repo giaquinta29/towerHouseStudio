@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/calculate.js"></script>
+	<LINK REL="stylesheet" TYPE="text/css" HREF="styleCalculator.css">
+</head>
+<body>
+<!-- Empieza codigo calculadora html-->
+	<form name="calculator">
+		
+		<p>Value 1:  <input type="number" id="x" value="">
+		Value 2:  <input type="number" id="y" value=""></p>
+		<p>Operation </p>
+		<select id="operation">
+			<option value="sum">sum</option>
+			<option value="subtraction">subtraction</option>
+			<option value="division">division</option>
+			<option value="multiplication">multiplication</option>
+		</select>
+		<input type="button" href="javascript:;" onclick="funcCalculate($('#x').val(), $('#y').val(),$('#operation').val());return false;" value="Calculate"/>
+
+		<br>
+		<p>Result: <span id="results">0</span>
+		
+</body>
+
+</html>
+

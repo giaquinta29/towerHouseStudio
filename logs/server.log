@@ -1,0 +1,348 @@
+2018-04-08 07:41:16 [username] 
+ [text] x: '6'
+2018-04-08 07:41:16 [username] 
+ [text] y: '8'
+2018-04-08 07:41:16 [username] 
+ [text] operation: 'division'
+2018-04-08 07:41:32 [username] 
+ [text] x: '1'
+2018-04-08 07:41:32 [username] 
+ [text] y: '1'
+2018-04-08 07:41:32 [username] 
+ [text] operation: 'sum'
+2018-04-08 07:41:35 [username] 
+ [text] x: '1'
+2018-04-08 07:41:35 [username] 
+ [text] y: '1'
+2018-04-08 07:41:35 [username] 
+ [text] operation: 'subtraction'
+2018-04-08 07:41:39 [username] 
+ [text] x: '1'
+2018-04-08 07:41:39 [username] 
+ [text] y: '1'
+2018-04-08 07:41:39 [username] 
+ [text] operation: 'division'
+2018-04-08 07:41:41 [username] 
+ [text] x: '1'
+2018-04-08 07:41:41 [username] 
+ [text] y: '1'
+2018-04-08 07:41:41 [username] 
+ [text] operation: 'multiplication'
+2018-04-08 07:44:04 [username] 
+ [text] x: '3'
+2018-04-08 07:44:04 [username] 
+ [text] y: '3'
+2018-04-08 07:44:04 [username] 
+ [text] operation: 'sum'
+2018-04-08 07:44:07 [username] 
+ [text] x: '3'
+2018-04-08 07:44:07 [username] 
+ [text] y: '3'
+2018-04-08 07:44:07 [username] 
+ [text] operation: 'subtraction'
+2018-04-08 07:44:10 [username] 
+ [text] x: '3'
+2018-04-08 07:44:10 [username] 
+ [text] y: '3'
+2018-04-08 07:44:10 [username] 
+ [text] operation: 'division'
+2018-04-08 07:44:13 [username] 
+ [text] x: '3'
+2018-04-08 07:44:13 [username] 
+ [text] y: '3'
+2018-04-08 07:44:13 [username] 
+ [text] operation: 'multiplication'
+2018-04-08 07:47:59 [username] 
+ [text] x: '4'
+2018-04-08 07:47:59 [username] 
+ [text] y: ''
+2018-04-08 07:47:59 [username] 
+ [text] operation: 'sum'
+2018-04-08 07:48:09 [username] 
+ [text] x: '4'
+2018-04-08 07:48:09 [username] 
+ [text] y: '164'
+2018-04-08 07:48:09 [username] 
+ [text] operation: 'sum'
+2018-04-08 07:48:15 [username] 
+ [text] x: '4'
+2018-04-08 07:48:15 [username] 
+ [text] y: '164'
+2018-04-08 07:48:15 [username] 
+ [text] operation: 'subtraction'
+2018-04-08 07:48:19 [username] 
+ [text] x: '4'
+2018-04-08 07:48:19 [username] 
+ [text] y: '164'
+2018-04-08 07:48:19 [username] 
+ [text] operation: 'division'
+2018-04-08 07:48:22 [username] 
+ [text] x: '4'
+2018-04-08 07:48:22 [username] 
+ [text] y: '164'
+2018-04-08 07:48:22 [username] 
+ [text] operation: 'multiplication'
+2018-04-08 07:50:13 [username] 
+ [text] x: ''
+2018-04-08 07:50:13 [username] 
+ [text] y: ''
+2018-04-08 07:50:13 [username] 
+ [text] operation: 'multiplication'
+2018-04-08 07:50:26 [username] 
+ [text] x: ''
+2018-04-08 07:50:26 [username] 
+ [text] y: ''
+2018-04-08 07:50:26 [username] 
+ [text] operation: 'multiplication'
+2018-04-08 07:50:27 [username] 
+ [text] x: ''
+2018-04-08 07:50:27 [username] 
+ [text] y: ''
+2018-04-08 07:50:27 [username] 
+ [text] operation: 'multiplication'
+2018-04-08 07:50:27 [username] 
+ [text] x: ''
+2018-04-08 07:50:27 [username] 
+ [text] y: ''
+2018-04-08 07:50:27 [username] 
+ [text] operation: 'multiplication'
+2018-04-08 07:50:28 [username] 
+ [text] x: ''
+2018-04-08 07:50:28 [username] 
+ [text] y: ''
+2018-04-08 07:50:28 [username] 
+ [text] operation: 'multiplication'
+2018-04-08 07:50:28 [username] 
+ [text] x: ''
+2018-04-08 07:50:28 [username] 
+ [text] y: ''
+2018-04-08 07:50:28 [username] 
+ [text] operation: 'multiplication'
+2018-04-08 07:50:28 [username] 
+ [text] x: ''
+2018-04-08 07:50:28 [username] 
+ [text] y: ''
+2018-04-08 07:50:28 [username] 
+ [text] operation: 'multiplication'
+2018-04-08 07:52:57 [username] 
+ [text] x: ''
+2018-04-08 07:52:57 [username] 
+ [text] y: ''
+2018-04-08 07:52:57 [username] 
+ [text] operation: 'sum'
+2018-04-08 07:52:58 [username] 
+ [text] x: ''
+2018-04-08 07:52:58 [username] 
+ [text] y: ''
+2018-04-08 07:52:58 [username] 
+ [text] operation: 'sum'
+2018-04-08 07:52:58 [username] 
+ [text] x: ''
+2018-04-08 07:52:58 [username] 
+ [text] y: ''
+2018-04-08 07:52:58 [username] 
+ [text] operation: 'sum'
+2018-04-08 07:52:58 [username] 
+ [text] x: ''
+2018-04-08 07:52:58 [username] 
+ [text] y: ''
+2018-04-08 07:52:58 [username] 
+ [text] operation: 'sum'
+2018-04-08 07:52:58 [username] 
+ [text] x: ''
+2018-04-08 07:52:58 [username] 
+ [text] y: ''
+2018-04-08 07:52:58 [username] 
+ [text] operation: 'sum'
+2018-04-08 07:55:06 [username] 
+ [text] x: ''
+2018-04-08 07:55:06 [username] 
+ [text] y: ''
+2018-04-08 07:55:06 [username] 
+ [text] operation: 'sum'
+2018-04-08 07:55:06 [username] 
+ [text] x: ''
+2018-04-08 07:55:06 [username] 
+ [text] y: ''
+2018-04-08 07:55:06 [username] 
+ [text] operation: 'sum'
+2018-04-08 07:55:07 [username] 
+ [text] x: ''
+2018-04-08 07:55:07 [username] 
+ [text] y: ''
+2018-04-08 07:55:07 [username] 
+ [text] operation: 'sum'
+2018-04-08 07:55:08 [username] 
+ [text] x: ''
+2018-04-08 07:55:08 [username] 
+ [text] y: ''
+2018-04-08 07:55:08 [username] 
+ [text] operation: 'sum'
+2018-04-08 08:03:43 [username] 
+ [text] x: ''
+2018-04-08 08:03:43 [username] 
+ [text] y: '1'
+2018-04-08 08:03:43 [username] 
+ [text] operation: 'sum'
+2018-04-08 08:10:23 [username] 
+ [text] x: '1'
+2018-04-08 08:10:23 [username] 
+ [text] y: '4'
+2018-04-08 08:10:23 [username] 
+ [text] operation: 'sum'
+2018-04-08 08:15:17 [username] 
+ [text] x: ''
+2018-04-08 08:15:17 [username] 
+ [text] y: ''
+2018-04-08 08:15:17 [username] 
+ [text] operation: 'division'
+2018-04-08 08:18:21 [username] 
+ [text] x: ''
+2018-04-08 08:18:21 [username] 
+ [text] y: ''
+2018-04-08 08:18:21 [username] 
+ [text] operation: 'sum'
+2018-04-08 08:18:24 [username] 
+ [text] x: ''
+2018-04-08 08:18:24 [username] 
+ [text] y: ''
+2018-04-08 08:18:24 [username] 
+ [text] operation: 'sum'
+2018-04-08 08:18:26 [username] 
+ [text] x: ''
+2018-04-08 08:18:26 [username] 
+ [text] y: ''
+2018-04-08 08:18:26 [username] 
+ [text] operation: 'division'
+2018-04-08 08:21:42 [username] 
+ [text] x: ''
+2018-04-08 08:21:42 [username] 
+ [text] y: ''
+2018-04-08 08:21:42 [username] 
+ [text] operation: 'division'
+2018-04-08 08:31:39 [username] 
+ [text] x: ''
+2018-04-08 08:31:39 [username] 
+ [text] y: ''
+2018-04-08 08:31:39 [username] 
+ [text] operation: 'division'
+2018-04-08 08:31:42 [username] 
+ [text] x: ''
+2018-04-08 08:31:42 [username] 
+ [text] y: ''
+2018-04-08 08:31:42 [username] 
+ [text] operation: 'division'
+2018-04-08 08:31:43 [username] 
+ [text] x: ''
+2018-04-08 08:31:43 [username] 
+ [text] y: ''
+2018-04-08 08:31:43 [username] 
+ [text] operation: 'division'
+2018-04-08 08:31:49 [username] 
+ [text] x: '4'
+2018-04-08 08:31:49 [username] 
+ [text] y: '4'
+2018-04-08 08:31:49 [username] 
+ [text] operation: 'division'
+2018-04-08 08:31:50 [username] 
+ [text] x: '4'
+2018-04-08 08:31:50 [username] 
+ [text] y: '4'
+2018-04-08 08:31:50 [username] 
+ [text] operation: 'division'
+2018-04-08 08:31:50 [username] 
+ [text] x: '4'
+2018-04-08 08:31:50 [username] 
+ [text] y: '4'
+2018-04-08 08:31:50 [username] 
+ [text] operation: 'division'
+2018-04-08 08:31:50 [username] 
+ [text] x: '4'
+2018-04-08 08:31:50 [username] 
+ [text] y: '4'
+2018-04-08 08:31:50 [username] 
+ [text] operation: 'division'
+2018-04-08 08:33:23 [username] 
+ [text] x: ''
+2018-04-08 08:33:23 [username] 
+ [text] y: ''
+2018-04-08 08:33:23 [username] 
+ [text] operation: 'division'
+2018-04-08 08:33:25 [username] 
+ [text] x: ''
+2018-04-08 08:33:25 [username] 
+ [text] y: ''
+2018-04-08 08:33:25 [username] 
+ [text] operation: 'division'
+2018-04-08 08:33:27 [username] 
+ [text] x: ''
+2018-04-08 08:33:27 [username] 
+ [text] y: ''
+2018-04-08 08:33:27 [username] 
+ [text] operation: 'division'
+2018-04-08 08:33:27 [username] 
+ [text] x: ''
+2018-04-08 08:33:27 [username] 
+ [text] y: ''
+2018-04-08 08:33:27 [username] 
+ [text] operation: 'division'
+2018-04-08 08:33:28 [username] 
+ [text] x: ''
+2018-04-08 08:33:28 [username] 
+ [text] y: ''
+2018-04-08 08:33:28 [username] 
+ [text] operation: 'division'
+2018-04-08 08:33:28 [username] 
+ [text] x: ''
+2018-04-08 08:33:28 [username] 
+ [text] y: ''
+2018-04-08 08:33:28 [username] 
+ [text] operation: 'division'
+2018-04-08 08:34:22 [username] 
+ [text] x: ''
+2018-04-08 08:34:22 [username] 
+ [text] y: ''
+2018-04-08 08:34:22 [username] 
+ [text] operation: 'division'
+2018-04-08 08:34:26 [username] 
+ [text] x: ''
+2018-04-08 08:34:26 [username] 
+ [text] y: ''
+2018-04-08 08:34:26 [username] 
+ [text] operation: 'division'
+2018-04-08 08:34:31 [username] 
+ [text] x: '4'
+2018-04-08 08:34:31 [username] 
+ [text] y: '4'
+2018-04-08 08:34:31 [username] 
+ [text] operation: 'division'
+2018-04-08 08:36:47 [username] 
+ [text] x: ''
+2018-04-08 08:36:47 [username] 
+ [text] y: ''
+2018-04-08 08:36:47 [username] 
+ [text] operation: 'subtraction'
+2018-04-08 08:36:48 [username] 
+ [text] x: ''
+2018-04-08 08:36:48 [username] 
+ [text] y: ''
+2018-04-08 08:36:48 [username] 
+ [text] operation: 'subtraction'
+2018-04-08 08:36:49 [username] 
+ [text] x: ''
+2018-04-08 08:36:49 [username] 
+ [text] y: ''
+2018-04-08 08:36:49 [username] 
+ [text] operation: 'subtraction'
+2018-04-08 08:36:52 [username] 
+ [text] x: '3'
+2018-04-08 08:36:52 [username] 
+ [text] y: ''
+2018-04-08 08:36:52 [username] 
+ [text] operation: 'subtraction'
+2018-04-08 08:36:56 [username] 
+ [text] x: '3'
+2018-04-08 08:36:56 [username] 
+ [text] y: ''
+2018-04-08 08:36:56 [username] 
+ [text] operation: 'multiplication'
